@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fly Ball</string>
+    <string name="get_ready">Get Ready!</string>
+    <string name="tap">tap</string>
+    <string name="commit">提交分数</string>
+    <string name="see_list">查看榜单</string>
+    <string name="ranking">排名</string>
+    <string name="player">玩家</string>
+    <string name="score">分数</string>
+</resources>
