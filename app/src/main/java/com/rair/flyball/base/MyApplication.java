@@ -11,7 +11,7 @@ import cn.bmob.v3.update.BmobUpdateAgent;
 
 public class MyApplication extends Application {
 
-    public static final String APP_ID = "6e40638d72bd2f5236e5c53ecfbf367b";
+    public static final String APP_ID = "bmob key 自行注册获取";
 
     @Override
     public void onCreate() {
